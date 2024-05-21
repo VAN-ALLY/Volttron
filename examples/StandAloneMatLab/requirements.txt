@@ -2,7 +2,7 @@ gevent==20.6.1
 greenlet==0.4.16
 grequests==0.6.0
 idna<3,>=2.5
-requests==2.23.0
+requests==2.32.0
 ply==3.11
 psutil==5.8.0
 python-dateutil==2.8.2
