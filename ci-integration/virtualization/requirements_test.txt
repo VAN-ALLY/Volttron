@@ -13,3 +13,4 @@ psycopg2
 mysql-connector-python-rf
 pymongo
 influxdb
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
