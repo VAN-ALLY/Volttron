@@ -35,7 +35,7 @@
     "babyparse": "^0.4.5",
     "bluebird": "^2.9.14",
     "chart.js": "^2.5.0",
-    "codemirror": "^4.13.0",
+    "codemirror": "^6.0.0",
     "flux": "^2.0.1",
     "font-awesome": "^4.6.3",
     "history": "^3.0.0",
